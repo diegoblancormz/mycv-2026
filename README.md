@@ -2,3 +2,5 @@
 Diego Blanco Ramirez - zs26004580
 
 Rama de versiones estables
+
+Listo para integracion
