@@ -6,3 +6,5 @@ Rama principal de desarrollo
 Inicio experiencia laboral
 
 Prototipo de menu de navegacion
+
+Enlaces de seccion en menu
