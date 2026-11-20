@@ -6,3 +6,5 @@ Rama principal de desarrollo
 Inicio experiencia laboral
 
 Detalle proyecto biometrico
+
+Inicio seccion idiomas
